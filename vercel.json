@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/casa-mar-azul", "destination": "/casa-mar-azul.html" },
+    { "source": "/casa-brisa-do-mar", "destination": "/casa-brisa-do-mar.html" },
+    { "source": "/casa-sol-nascente", "destination": "/casa-sol-nascente.html" }
+  ]
+}
